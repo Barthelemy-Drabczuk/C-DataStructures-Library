@@ -9,8 +9,8 @@
 #ifndef C_DATASTRUCTURES_LIBRARY_SORTEDLIST_H
 #define C_DATASTRUCTURES_LIBRARY_SORTEDLIST_H
 
-#include "Core.h"
-#include "CoreSort.h"
+#include "./core/Core.h"
+#include "./core/CoreSort.h"
 
 #ifdef __cplusplus
 extern "C" {
